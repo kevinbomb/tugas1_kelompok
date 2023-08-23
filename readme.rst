@@ -1,3 +1,13 @@
+git clone https://github.com/xellyx/tugas1_kelompok.git <br/>
+copy folder hasil clone ke htdocs xampp <br/>
+buat database "dbinternship" <br/>
+rename file dari sql.zip jadi .sql.zip <br/>
+import .sql.zip ke database dbinternship <br/>
+run xampp apacher + mysql <br/>
+localhost/trafoindo<br/>
+
+
+
 ###################
 Hello
 ###################
